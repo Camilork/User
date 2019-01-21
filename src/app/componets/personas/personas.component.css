@@ -1,0 +1,31 @@
+    .card-img-top{
+        width: 50%;
+        float: left;
+        margin: 2% 10% 0% 10%;
+    }
+    label{
+        font-size: x-large;
+        padding: 1%;
+    }
+    button{
+        float: right;
+        padding: 1%;
+        margin-left: 1%;
+    }
+    #menu{
+        font-size: xx-large;
+    }
+    #appcontent{
+        background-color: black;
+    }
+    .card{
+        width: 20%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #nsas{
+        height: 600px;
+        margin-top: 3%;
+        overflow: scroll;
+        border-bottom-style: initial;
+    }
